@@ -11,7 +11,7 @@ tags: []
 
 1. 產生此文件方式
 在當前directory的terminal輸入
-``` script=
+```
 	rake post title="Hello World"
 ```
 2. 然後就可以用markdownm語法來寫了～
